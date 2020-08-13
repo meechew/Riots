@@ -4,6 +4,11 @@
   "name": "Riots",
   "description": "This extension will fix journalistic errors",
   "version": "1.0",
+  "icons": {
+    "16":  "assets/images/fire_16.png",
+    "48":  "assets/images/fire_48.png",
+    "128": "assets/images/fire_128.png"
+  },
 
   "browser_action": {
     "default_icon": "fire_1f525.png",
