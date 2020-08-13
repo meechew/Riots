@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03852bfe-8829-43de-9a62-0881ea118daa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fyxnsXBoHA6pAF00Xej8Kr3Q7S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03852bfe-8829-43de-9a62-0881ea118daa" name="Default Changelist" comment="" />
+      <created>1597204305106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597204305106</updated>
+      <workItem from="1597204306295" duration="806000" />
+      <workItem from="1597208231475" duration="15163000" />
+      <workItem from="1597268504965" duration="7144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597209101825">
+      <screen x="1920" y="-125" width="1920" height="1160" />
+    </state>
+    <state x="2334" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.-125.1920.1160@1920.-125.1920.1160" timestamp="1597209101825" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1597208544176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824/1920.-125.1920.1160@0.0.1536.824" timestamp="1597208544176" />
+    <state x="2266" y="-45" key="SettingsEditor" timestamp="1597279839262">
+      <screen x="1920" y="-125" width="1920" height="1160" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.-125.1920.1160@0.0.1536.824" timestamp="1597208890014" />
+    <state x="2266" y="-45" key="SettingsEditor/0.0.1536.824/1920.-125.1920.1160@1920.-125.1920.1160" timestamp="1597279839262" />
+  </component>
+</project>
