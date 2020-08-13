@@ -11,7 +11,7 @@
   },
 
   "browser_action": {
-    "default_icon": "fire_1f525.png",
+    "default_icon": "assets/images/fire_128.png",
     "default_popup": "popup.html"
   },
   "permissions": ["activeTab"]
