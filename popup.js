@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     const FixPageButton = document.getElementById('FixPage');
     FixPageButton.addEventListener('click', function () {
-        String.prototype.replaceAll = function (s1, s2) {}
         chrome.tabs.executeScript({
             //searches the body of a document and replaces
             //every "protest" with "riot"
