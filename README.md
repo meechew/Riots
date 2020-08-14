@@ -20,7 +20,7 @@ Latest versions:
 
 This extension only requires developer dependencies.
 
-Once you have downloaded the *.zip exstract it to:
-~\AppData\Local\{Chromium based browser}\Extentions\
+Once you have downloaded the *.zip extract it to:
+~\AppData\Local\{Chromium based browser}\Extensions\
 
-In your browser open the exstention settings and turn on "Developer mode" the click "Load unpacked" and select the folder you exstacted it to.
+In your browser open the extension settings and turn on "Developer mode" then click "Load unpacked" and select the folder you extracted it to.
