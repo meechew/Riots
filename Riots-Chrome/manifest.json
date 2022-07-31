@@ -1,16 +1,16 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
 
   "name": "Riots",
   "description": "This extension will fix journalistic errors",
-  "version": "1.0",
+  "version": "1.1",
   "icons": {
     "16":  "assets/images/fire_16.png",
     "48":  "assets/images/fire_48.png",
     "128": "assets/images/fire_128.png"
   },
 
-  "browser_action": {
+  "action": {
     "default_icon": "assets/images/fire_128.png",
     "default_popup": "popup.html"
   },
